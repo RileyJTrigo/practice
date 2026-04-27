@@ -1,2 +1,1 @@
-# practice
-bye
+Hello, bye
