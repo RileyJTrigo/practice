@@ -1,2 +1,2 @@
 Practice Repo
-this work completed in CS220
+this work completed in CS220.
